@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D93A5329-0024-40B5-AC75-F3FA9657F36E}</ProjectGuid>
+    <ProjectGuid>{B9069709-0C76-47EF-8C94-06391E996832}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ListaCircularEnlazadaDoble</RootNamespace>
-    <AssemblyName>ListaCircularEnlazadaDoble</AssemblyName>
+    <RootNamespace>LISTAS_CIRCULARES__RUTAS_</RootNamespace>
+    <AssemblyName>LISTAS CIRCULARES %28RUTAS%29</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

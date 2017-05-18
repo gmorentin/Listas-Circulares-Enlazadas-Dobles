@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("ListaCircularEnlazadaDoble")]
+[assembly: AssemblyTitle("LISTAS CIRCULARES (RUTAS)")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ListaCircularEnlazadaDoble")]
+[assembly: AssemblyProduct("LISTAS CIRCULARES (RUTAS)")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("d93a5329-0024-40b5-ac75-f3fa9657f36e")]
+[assembly: Guid("b9069709-0c76-47ef-8c94-06391e996832")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ListaCircularEnlazadaDoble.Properties
+namespace LISTAS_CIRCULARES__RUTAS_.Properties
 {
 
 

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ListaCircularEnlazadaDoble.Properties
+namespace LISTAS_CIRCULARES__RUTAS_.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace ListaCircularEnlazadaDoble.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ListaCircularEnlazadaDoble.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("LISTAS_CIRCULARES__RUTAS_.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
